@@ -13,5 +13,5 @@
 (단, 해당 논문에서는 영어 문장을 프랑스어 문장으로 번역하는 확률을 학습시킨 것이 아니라, 영어 구를 프랑스어 구로 번역하는 확률을 학습시켰다.)
 
 ## References
-- Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation [link](https://arxiv.org/abs/1406.1078)
-- PyTorch Seq2Seq [link](https://github.com/bentrevett/pytorch-seq2seq)
+- Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation [[link]](https://arxiv.org/abs/1406.1078)
+- PyTorch Seq2Seq [[link]](https://github.com/bentrevett/pytorch-seq2seq)

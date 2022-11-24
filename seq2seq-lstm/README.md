@@ -11,5 +11,5 @@ Deep Neural Networks (DNNs) 는 입력과 출력 데이터를 고정 길이의 �
 그리고 제안한 방법을 WMT'14 English to French Machine Translation 작업에 적용하였다. 그 결과 전체 테스트 세트에서 34.8에 달하는 BLEU 점수를 얻었다.
 
 ## References
-- Sequence to Sequence Learning with Neural Networks [link](https://arxiv.org/abs/1409.3215)
-- PyTorch Seq2Seq [link](https://github.com/bentrevett/pytorch-seq2seq)
+- Sequence to Sequence Learning with Neural Networks [[link]](https://arxiv.org/abs/1409.3215)
+- PyTorch Seq2Seq [[link]](https://github.com/bentrevett/pytorch-seq2seq)

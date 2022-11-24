@@ -13,5 +13,5 @@ SMT (Statistical Machine Translation) 시스템이 지배적이던 기계 번역
 해당 모델을 WMT’14 English to French Machine Translation 데이터셋으로 학습시켰을 때 당시 SMT 시스템의 최고점에 훨씬 가까워진 BLUE 점수를 받을 수 있었다. (28.45)
 
 ## References
-- Neural Machine Translation by Jointly Learning to Align and Translate [link](https://arxiv.org/abs/1409.0473)
-- PyTorch Seq2Seq [link](https://github.com/bentrevett/pytorch-seq2seq)
+- Neural Machine Translation by Jointly Learning to Align and Translate [[link]](https://arxiv.org/abs/1409.0473)
+- PyTorch Seq2Seq [[link]](https://github.com/bentrevett/pytorch-seq2seq)
